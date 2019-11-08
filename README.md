@@ -12,7 +12,8 @@ Loops
 
 ######Technologies Used
 
-Java
-While Loops
+* Java 
+* While Loops
+*Other cool Technologies
 
 #######Lessons Learned
